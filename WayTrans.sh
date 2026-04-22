@@ -3,7 +3,8 @@
 # ============================================================
 #  Chat Tradutor para Jogos - Versão Rápida (sem confirmação)
 #  Dependências: zenity, curl, jq, wl-clipboard, wtype
-#  Instalar: sudo pacman -S zenity curl jq wl-clipboard wtype
+#  Instalar arch: sudo pacman -S zenity curl jq wl-clipboard wtype
+#  Instalador Debian/Ubuntu: sudo apt update && sudo apt install zenity curl jq xclip xdotool
 # ============================================================
 
 IDIOMA_ORIGEM="pt"
@@ -11,7 +12,7 @@ IDIOMA_DESTINO="en"
 
 # 1. Abre a caixa de entrada
 TEXTO=$(zenity --entry \
-    --title="WaylandTranslator" \
+    --title="LnxTrans" \
     --text="Digite sua mensagem (PT → EN):" \
     --width=380 2>/dev/null)
 
