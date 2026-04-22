@@ -11,7 +11,7 @@ IDIOMA_DESTINO="en"
 
 # 1. Abre a caixa de entrada
 TEXTO=$(zenity --entry \
-    --title="🎮 Chat Tradutor" \
+    --title="WaylandTranslator" \
     --text="Digite sua mensagem (PT → EN):" \
     --width=380 2>/dev/null)
 
