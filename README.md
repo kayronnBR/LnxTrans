@@ -11,7 +11,7 @@
 Clique no botão abaixo para baixar os arquivos necessários:
 
 <h1>
-  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/photogimp-autoinstall/blob/main/PhotoGIMP-linux.tar.xz">DOWNLOAD</a>
+  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/WayTrans/blob/main/WayTrans.sh">DOWNLOAD</a>
 </h1>
 
 ### 2\. Preparação do Arquivo
