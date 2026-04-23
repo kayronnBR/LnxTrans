@@ -12,7 +12,7 @@ IDIOMA_DESTINO="en"
 
 # 1. Abre a caixa de entrada
 TEXTO=$(zenity --entry \
-    --title="LnxTrans" \
+    --title="LnxTransMsg" \
     --text="Digite sua mensagem (PT → EN):" \
     --width=380 2>/dev/null)
 
