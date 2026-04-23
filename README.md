@@ -1,6 +1,6 @@
 # LnxTransMsg
 
-**LnxTrans** é um tradutor de texto otimizado para o protocolo **LnxTrans**, utilizando o poder do **GoogleTranslatorAPI** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
+**LnxTransMsg** é um tradutor de texto otimizado, utilizando o poder do **GoogleTranslatorAPI** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
 
 -----
 
